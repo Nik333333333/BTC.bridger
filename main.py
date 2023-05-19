@@ -24,7 +24,7 @@ class Chain():
 class Polygon(Chain):
     def __init__(self):
         super().__init__(
-            'https://polygon-mainnet.g.alchemy.com/v2/lPMig0wM7-SlvrpdFoUJ2NacnLtID6qz',
+            'https://polygon-rpc.com',
             '0x2297aEbD383787A160DD0d9F71508148769342E3',
             '0x2297aEbD383787A160DD0d9F71508148769342E3',
             109,
