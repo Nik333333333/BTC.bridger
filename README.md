@@ -41,4 +41,4 @@ pip install web3
 
 ## 👨‍💻 All of my projects are available [here](https://github.com/ryu666zaki?tab=repositories)
 
-#### 🍩Donate: `0x27512edc51cAd8a5277090183858677915CC95c4`
+#### 🍩Donate: `0x27512edc51cAd8a5277090183858677915CC95c4`1
